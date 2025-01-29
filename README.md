@@ -1,4 +1,4 @@
-# Parallax Layer
+# Parallax Scrolling
 
 A lightweight JavaScript library for adding a smooth parallax scrolling effect to elements.
 
@@ -14,7 +14,7 @@ A lightweight JavaScript library for adding a smooth parallax scrolling effect t
 Install via `npm`:
 
 ```sh
-npm install parallax-layer
+npm install parallax-scrolling
 ```
 
 --- 
@@ -23,9 +23,9 @@ npm install parallax-layer
 
 ### 1. Init 
 ```javascript 
-import ParallaxLayer from "parallax-layer";
+import ParallaxLayer from "parallax-scrolling";
 // or
-const ParallaxLayer = require("parallax-layer");
+const ParallaxLayer = require("parallax-scrolling");
 
 const parallax = new ParallaxLayer(); 
 ```
