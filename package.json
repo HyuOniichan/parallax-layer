@@ -1,0 +1,16 @@
+{
+  "name": "parallax-layer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "index.js",
+  "exports": {
+    "require": "./index.cjs", 
+    "import": "./index.mjs"
+  }, 
+  "types": "parallax.d.ts",
+  "keywords": ["parallax", "scrolling", "animation"],
+  "author": "HyuHyu",
+  "license": "MIT",
+  "type": "commonjs",
+  "description": "A simple JS library for parallax scrolling effect"
+}
